@@ -28,12 +28,12 @@ def first_element_with_array_methods(array)
   array.first
 end
 
-# Take an argument of an array and return the last element in the array, wihtout referencing the index number
+# Take an argument of an array and return the last element in the array, without referencing the index number
 def last_element_with_array_methods(array)
   array.last
 end
 
-# Take an argument of an array and return the last element in the array, wihtout referencing the index number
+# using ruby array methods to get information about an array
 def last_element_with_array_methods(array)
   array.last
 end
