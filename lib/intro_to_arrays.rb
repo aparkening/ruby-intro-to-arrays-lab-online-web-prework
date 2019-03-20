@@ -10,7 +10,7 @@ end
 
 # Return first element of given array
 def first_element(array)
-  array.first
+  array[0]
 end
 
 #Take an argument of an array and return the third element in the array using its positive index
@@ -22,3 +22,9 @@ end
 def last_element(array)
   array[-1]
 end
+
+# Take an argument of an array and return the first element in the array, without referencing the index number of that element
+def first_element_with_array_methods(array)
+  array.first
+end
+
