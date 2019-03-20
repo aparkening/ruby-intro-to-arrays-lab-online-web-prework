@@ -8,3 +8,7 @@ def array_with_two_elements
   ["a","b"]
 end
 
+# Return first element of given array
+def first_element(array)
+  array.first
+end
