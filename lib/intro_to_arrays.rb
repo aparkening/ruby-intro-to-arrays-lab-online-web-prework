@@ -33,7 +33,7 @@ def last_element_with_array_methods(array)
   array.last
 end
 
-# using ruby array methods to get information about an array
-def last_element_with_array_methods(array)
-  array.last
+# Take an argrument of an array and return the length of the array
+def length_of_array(array)
+  array.length
 end
