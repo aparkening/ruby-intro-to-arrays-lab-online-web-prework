@@ -5,5 +5,6 @@ end
 
 # Create new array w/ 2 elements
 def array_with_two_elements
-  []
+  ["a","b"]
 end
+
