@@ -12,3 +12,8 @@ end
 def first_element(array)
   array.first
 end
+
+#Take an argument of an array and return the third element in the array using its positive index
+def third_element(array)
+  array[2]
+end
