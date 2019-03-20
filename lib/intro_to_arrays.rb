@@ -19,6 +19,6 @@ def third_element(array)
 end
 
 # Take an argument of an array and return the last element in the array using its negative index
-def last(array)
+def last_element(array)
   array[-1]
 end
